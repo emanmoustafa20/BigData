@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="task_one:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/task_one_jar</output-path>
+    <root id="archive" name="task_one.jar">
+      <element id="module-output" name="task_one" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../hadoop_jars/hadoop-3.3.1/share/hadoop/mapreduce/hadoop-mapreduce-client-common-3.3.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../hadoop_jars/hadoop-3.3.1/share/hadoop/client/hadoop-client-runtime-3.3.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../hadoop_jars/hadoop-3.3.1/share/hadoop/client/hadoop-client-api-3.3.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../hadoop_jars/hadoop-3.3.1/share/hadoop/hdfs/hadoop-hdfs-3.3.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../hadoop_jars/hadoop-3.3.1/share/hadoop/mapreduce/hadoop-mapreduce-client-core-3.3.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../hadoop_jars/hadoop-3.3.1/share/hadoop/common/hadoop-common-3.3.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
